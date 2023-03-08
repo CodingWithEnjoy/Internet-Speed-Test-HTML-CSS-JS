@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Vazirmatn", sans-serif;
+}
+
+body {
+  background: rgb(115, 0, 255);
+  color: azure;
+  direction: rtl;
+  text-align: center;
+  max-width: 100%;
+  height: 90vh;
+  display: grid;
+  place-items: center;
+}
